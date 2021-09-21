@@ -5234,9 +5234,10 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
-"react-native-toast@git+https://guigallo@github.com/guigallo/react-native-toast.git#394a21a977480c6369a717e0e2e243e3541513e3":
+"react-native-toast@git+https://guigallo@github.com/guigallo/react-native-toast.git":
   version "1.0.0"
-  resolved "git+https://guigallo@github.com/guigallo/react-native-toast.git#394a21a977480c6369a717e0e2e243e3541513e3"
+  uid dbac76faeb0025aa626fc26e46269742a44cde65
+  resolved "git+https://guigallo@github.com/guigallo/react-native-toast.git#dbac76faeb0025aa626fc26e46269742a44cde65"
 
 react-native@0.61.5:
   version "0.61.5"
@@ -6167,9 +6168,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
